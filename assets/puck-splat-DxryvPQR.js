@@ -1,4 +1,4 @@
-import{R as p,d as l,j as h,a as J}from"./chunk-NL6KNZEE-BC11HJMB.js";import{l as S,P as F,c as P,s as H,a as Y,R as G}from"./_index-BqbenySg.js";import"./index-BmHlQOqJ.js";const Q="/assets/index-jJfhA5fm.css";/**
+import{R as p,d as l,j as h,a as J}from"./chunk-NL6KNZEE-BC11HJMB.js";import{l as S,P as F,c as P,s as H,a as Y,R as G}from"./_index-BqbenySg.js";import"./index-BmHlQOqJ.js";const Q="/puck-demo-email/assets/index-jJfhA5fm.css";/**
  * @license Copyright (c) 2003-2025, CKSource Holding sp. z o.o. All rights reserved.
  * For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-licensing-options
  */function Z(){const t={resolve:null,promise:null};return t.promise=new Promise(e=>{t.resolve=e}),t}/**
